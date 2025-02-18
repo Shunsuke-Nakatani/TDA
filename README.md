@@ -1,6 +1,6 @@
 # TDA
 
-system1_Pigenerator
+#system1_Pigenerator
 取引記録を基に，NetworkXでグラフを作成，ノードの座標データにパーシステントホモロジーを適用しパーシステントイメージを生成します．
 
 system1_classification
